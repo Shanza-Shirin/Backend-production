@@ -144,3 +144,10 @@ Register → Login → Copy Token → Access Protected Routes
 🔁 Forgot / Reset Password
 
 ⚡ Rate Limiting & Security Headers
+
+📸 Screenshots
+
+<img width="1476" height="490" alt="Screenshot 2026-02-06 123832" src="https://github.com/user-attachments/assets/cae6df56-1d55-44b9-a917-6d333b4f5b20" />
+
+
+<img width="1473" height="495" alt="Screenshot 2026-02-06 123941" src="https://github.com/user-attachments/assets/02a28739-744a-4d1d-924e-59bb8e3e1dc5" />
